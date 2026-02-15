@@ -10,19 +10,54 @@
 
 ## TABLE OF CONTENTS
 
-| Section | Page | Description |
-|---------|------|-------------|
-| [Executive Summary](#executive-summary) | 1 | Attack surface snapshot & immediate targets |
-| [Vector 1: HTTP Verb Tampering](#exploitation-vector-1-http-verb-tampering-on-fpcaprtvlefi) | 2 | Auth bypass exploitation |
-| [Vector 2: Slowloris DoS](#exploitation-vector-2-slowloris-dos-on-monitorrtvlefi) | 4 | DoS attack script |
-| [Vector 3: JMX Console](#exploitation-vector-3-jmx-console-unauthenticated-access) | 6 | JMX enumeration & RCE |
-| [Vector 4: CVE-2010-0738](#exploitation-vector-4-cve-2010-0738-auth-bypass) | 9 | Auth bypass commands |
-| [Vector 5: SMB Lateral Movement](#exploitation-vector-5-smblinux-lateral-movement-on-monitorrtvlefi) | 10 | SMB/RDP pivoting |
-| [Lateral Movement](#lateral-movement-path) | 12 | Pivot setup & network diagram |
-| [Data Exfiltration](#data-exfiltration-channels) | 13 | Exfil channels & commands |
-| [Persistence](#persistence-mechanisms) | 14 | Backdoors & web shells |
-| [Cleanup](#cleanup-checklist) | 15 | Covering tracks |
-| [Recon Commands](#recon-commands-summary) | 15 | Quick nmap one-liners |
+1. [Executive Summary](#executive-summary)
+   - [Attack Surface Snapshot](#attack-surface-snapshot)
+   - [Immediate Exploitation Targets](#immediate-exploitation-targets)
+   - [Recon Data Available](#recon-data-available)
+
+2. [Exploitation Vector 1: HTTP Verb Tampering on fpcap.rt.vle.fi](#exploitation-vector-1-http-verb-tampering-on-fpcaprtvelfi)
+   - [Why It Works](#why-it-works)
+   - [Proof of Concept](#proof-of-concept)
+   - [Automated Exploitation Script](#automated-exploitation-script)
+   - [Manual Exploitation Steps](#manual-exploitation-steps)
+
+3. [Exploitation Vector 2: Slowloris DoS on monitor.rt.vle.fi](#exploitation-vector-2-slowloris-dos-on-monitorrtvelfi)
+   - [Why It Works](#why-it-works-1)
+   - [Attack Script](#attack-script)
+   - [Quick Command-Line Exploitation](#quick-command-line-exploitation)
+   - [Impact Assessment](#impact-assessment)
+
+4. [Exploitation Vector 3: JMX Console Unauthenticated Access](#exploitation-vector-3-jmx-console-unauthenticated-access)
+   - [Why It Works](#why-it-works-2)
+   - [Enumeration Script](#enumeration-script)
+   - [Manual Exploitation Path](#manual-exploitation-path)
+   - [Post-Exploitation: Command Execution](#post-exploitation-command-execution)
+
+5. [Exploitation Vector 4: CVE-2010-0738 Auth Bypass](#exploitation-vector-4-cve-2010-0738-auth-bypass)
+   - [Exploitation Command](#exploitation-command)
+
+6. [Exploitation Vector 5: SMB/LINUX Lateral Movement on monitor.rt.vle.fi](#exploitation-vector-5-smblinux-lateral-movement-on-monitorrtvelfi)
+   - [SMB Enumeration](#smb-enumeration)
+   - [Password Spraying via SMB](#password-spraying-via-smb)
+   - [RDP Connection Testing](#rdp-connection-testing)
+
+7. [Lateral Movement Path](#lateral-movement-path)
+   - [Network Diagram](#network-diagram)
+   - [Pivot Setup](#pivot-setup)
+
+8. [Data Exfiltration Channels](#data-exfiltration-channels)
+   - [Established Channels](#established-channels)
+   - [Quick Exfil Commands](#quick-exfil-commands)
+
+9. [Persistence Mechanisms](#persistence-mechanisms)
+   - [SSH Key Persistence](#ssh-key-persistence)
+   - [Web Shell Deployment](#web-shell-deployment)
+
+10. [Cleanup Checklist](#cleanup-checklist)
+
+11. [Recon Commands Summary](#recon-commands-summary)
+
+12. [Appendix: RED TEAM TOOLS DIRECTORY](#appendix-red-team-tools-directory)
 
 ---
 
@@ -58,7 +93,7 @@ Vulnerabilities confirmed: 7
 
 ---
 
-## EXPLOITATION VECTOR 1: HTTP VERB TAMPERING ON fpcap.rt.vle.fi {#exploitation-vector-1-http-verb-tampering-on-fpcaprtvlefi}
+## EXPLOITATION VECTOR 1: HTTP VERB TAMPERING ON fpcap.rt.vle.fi
 
 **Target:** `fpcap.rt.vle.fi` (10.40.30.20)
 **Risk:** CRITICAL - Authentication Bypass
@@ -161,7 +196,7 @@ if __name__ == "__main__":
 
 ---
 
-## EXPLOITATION VECTOR 2: SLOWLORIS DoS ON monitor.rt.vle.fi {#exploitation-vector-2-slowloris-dos-on-monitorrtvlefi}
+## EXPLOITATION VECTOR 2: SLOWLORIS DoS ON monitor.rt.vle.fi
 
 **Target:** `monitor.rt.vle.fi` (10.40.30.30)
 **Risk:** HIGH - Denial of Service
@@ -364,7 +399,7 @@ done
 
 ---
 
-## EXPLOITATION VECTOR 3: JMX CONSOLE UNAUTHENTICATED ACCESS {#exploitation-vector-3-jmx-console-unauthenticated-access}
+## EXPLOITATION VECTOR 3: JMX CONSOLE UNAUTHENTICATED ACCESS
 
 **Target:** `monitor.rt.vle.fi` (10.40.30.30)
 **Risk:** CRITICAL - Remote Code Execution
@@ -536,7 +571,7 @@ print(response.text)
 
 ---
 
-## EXPLOITATION VECTOR 4: CVE-2010-0738 AUTH BYPASS {#exploitation-vector-4-cve-2010-0738-auth-bypass}
+## EXPLOITATION VECTOR 4: CVE-2010-0738 AUTH BYPASS
 
 **Target:** `monitor.rt.vle.fi` (10.40.30.30)
 **Risk:** HIGH - Authentication Bypass
@@ -561,7 +596,7 @@ hydra -l admin -P /usr/share/wordlists/rockyou.txt http-post-form \
 
 ---
 
-## EXPLOITATION VECTOR 5: SMB/LINUX LATERAL MOVEMENT ON monitor.rt.vle.fi {#exploitation-vector-5-smblinux-lateral-movement-on-monitorrtvlefi}
+## EXPLOITATION VECTOR 5: SMB/LINUX LATERAL MOVEMENT ON monitor.rt.vle.fi
 
 **Target:** `monitor.rt.vle.fi` (10.40.30.30)
 **Open Ports:** 139/tcp, 445/tcp
@@ -675,7 +710,7 @@ hydra -l administrator -P passwords.txt rdp://10.40.30.30
 
 ---
 
-## LATERAL MOVEMENT PATH {#lateral-movement-path}
+## LATERAL MOVEMENT PATH
 
 ### Network Diagram
 
@@ -702,7 +737,7 @@ proxychains nmap -sT -p- 10.40.30.0/24
 
 ---
 
-## DATA EXFILTRATION CHANNELS {#data-exfiltration-channels}
+## DATA EXFILTRATION CHANNELS
 
 ### Established Channels
 
@@ -727,7 +762,7 @@ smbclient //10.40.30.30/Shared -U user%password -c "put data.txt"
 
 ---
 
-## PERSISTENCE MECHANISMS {#persistence-mechanisms}
+## PERSISTENCE MECHANISMS
 
 ### SSH Key Persistence
 
@@ -774,7 +809,7 @@ upload_shell("http://fpcap.rt.vle.fi", shell)
 
 ---
 
-## CLEANUP CHECKLIST {#cleanup-checklist}
+## CLEANUP CHECKLIST
 
 After exploitation, remove traces:
 
@@ -791,7 +826,7 @@ curl -X DELETE http://fpcap.rt.vle.fi/backdoor.php
 
 ---
 
-## RECON COMMANDS SUMMARY {#recon-commands-summary}
+## RECON COMMANDS SUMMARY
 
 ```bash
 # Quick host discovery
