@@ -9,13 +9,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thismahbub&" alt="thismahbub" /></p>
 
 
-🚩 Badges: 
-  - [Education: Verified International Academic Qualifications](https://badges.wes.org/Evidence?i=da03eca8-2aa1-47dc-b0aa-7dec8df413bc&type=ca)
+🚩 Certification: 
+  - [Master’s of Engineering in Cyber Security(Information Technology), JAMK University of Applied Sciences, Finland]([=da03eca8-2aa1-47dc-b0aa-7dec8df413bc&type=ca](https://www.jamk.fi/en))
+  - [Bachelor’s of Science (Business Information Technology), University of Greenwich, United Kingdom](https://badges.wes.org/Evidence?i=da03eca8-2aa1-47dc-b0aa-7dec8df413bc&type=ca)
+  - [Oracle Certified Professional: Java SE 17 Developer](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B515094631C5B6392CAA01AD40E1AC9AA7D44F01EB33E8FDB8C8F06741150415)
+  - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/6de04589-fad1-40bc-9339-9e2d9ab61b33)
   - [EY Digital - Silver Learning (2024)](https://www.credly.com/badges/cdafa2fa-3248-446e-b109-36a996c6bf1d)
   - [EY Cloud - Bronze Learning (2024)](https://www.credly.com/badges/917994f1-5e47-45c6-957b-1d384c76c2c7)
   - [EY Artificial Intelligence - AI Engineering - Bronze Learning (2024)](https://www.credly.com/badges/7b138070-35be-475b-8be8-83bee6122555)
-  - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/6de04589-fad1-40bc-9339-9e2d9ab61b33)
-  - [Oracle Certified Professional: Java SE 17 Developer](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B515094631C5B6392CAA01AD40E1AC9AA7D44F01EB33E8FDB8C8F06741150415)
 
 🔭 I'm currently working on open-source Java/Spring Boot projects, a personal SaaS product, my Cyber Security Master's thesis at JAMK University, and FinTech/banking solutions
 
