@@ -7,7 +7,7 @@
 
 🚩 Education:
 
-- [Master’s of Engineering in Cyber Security(Information Technology), JAMK University of Applied Sciences, Finland]([=da03eca8-2aa1-47dc-b0aa-7dec8df413bc&type=ca](https://www.jamk.fi/en))
+- [Master’s of Engineering in Cyber Security(Information Technology), JAMK University of Applied Sciences, Finland](https://www.jamk.fi/en)
 - [Bachelor’s of Science (Business Information Technology), University of Greenwich, United Kingdom](https://badges.wes.org/Evidence?i=da03eca8-2aa1-47dc-b0aa-7dec8df413bc&type=ca)
 
 🚩 Certification:
