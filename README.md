@@ -1,31 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Mahbub Alam</h1>
 <h3 align="center">Senior Software Engineer | FinTech | Cloud | ERP | Microservice | Distributed Architecture | Cyber Security and AI enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thismahbub&label=Profile%20views&color=0e75b6&style=flat" alt="thismahbub" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/thismahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thismahbub" height="30" width="40" /></a>
-<a href="https://twitter.com/thismahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thismahbub" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thismahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thismahbub" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/1679912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1679912" height="30" width="40" /></a>
-<a href="https://fb.com/thismahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thismahbub" height="30" width="40" /></a>
-<a href="https://instagram.com/finstorm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="finstorm_" height="30" width="40" /></a>
-<a href="https://medium.com/thismahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="thismahbub" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thismahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thismahbub" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thismahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thismahbub" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thismahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thismahbub" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=thismahbub&label=Profile%20views&color=0e75b6&style=flat" alt="thismahbub" />
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thismahbub&show_icons=true&locale=en&layout=compact" alt="thismahbub" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thismahbub&show_icons=true&locale=en" alt="thismahbub" /></p>-->
@@ -56,3 +32,26 @@
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I've engineered systems for 10+ banks across Asia, built a microservices engine that grew revenue by 40%, and I'm now leveling up into Cyber Security — all from Helsinki! 🇫🇮
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/thismahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thismahbub" height="30" width="40" /></a>
+<a href="https://twitter.com/thismahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thismahbub" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thismahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thismahbub" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/1679912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1679912" height="30" width="40" /></a>
+<a href="https://fb.com/thismahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thismahbub" height="30" width="40" /></a>
+<a href="https://instagram.com/finstorm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="finstorm_" height="30" width="40" /></a>
+<a href="https://medium.com/thismahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="thismahbub" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/thismahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thismahbub" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/thismahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thismahbub" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/thismahbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thismahbub" height="30" width="40" /></a>
+</p>
