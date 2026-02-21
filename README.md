@@ -2,6 +2,7 @@
 <h3 align="center">Senior Software Engineer | FinTech | Cloud | ERP | Microservice | Distributed Architecture | Cyber Security and AI enthusiast</h3>
 
 <img src="https://komarev.com/ghpvc/?username=thismahbub&label=Profile%20views&color=0e75b6&style=flat" alt="thismahbub" />
+<a align="right" href="https://drive.google.com/file/d/1H_2-VkSzGHikQnOUPh5_qqiI-sbNQTx8/view?usp=sharing" target="_bank">Download CV</a>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thismahbub&show_icons=true&locale=en&layout=compact" alt="thismahbub" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thismahbub&show_icons=true&locale=en" alt="thismahbub" /></p>-->
