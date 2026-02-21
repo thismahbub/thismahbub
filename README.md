@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Mahbub Alam</h1>
 <h3 align="center">Senior Software Engineer | FinTech | Cloud | ERP | Microservice | Distributed Architecture | Cyber Security and AI enthusiast</h3>
 
-<h3 align="right"><a href="https://drive.google.com/file/d/1H_2-VkSzGHikQnOUPh5_qqiI-sbNQTx8/view?usp=sharing" target="_bank">Download CV</a></h3>
+<h3 align="right"><a href="https://drive.google.com/file/d/1H_2-VkSzGHikQnOUPh5_qqiI-sbNQTx8/view?usp=sharing" target="_blank_">Download CV</a></h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thismahbub&" alt="thismahbub" /></p>
 
