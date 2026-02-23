@@ -5,7 +5,7 @@
 
 <table border="0">
   <tr>
-    <td>
+    <td width="60%">
       <p>
 
 - I'm currently working on open-source Java/Spring Boot projects, a personal SaaS product, my Cyber Security Master's thesis at JAMK University, and FinTech/banking solutions
@@ -24,7 +24,7 @@
       </p>
     </td>
     <td>
-      <p width="45%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thismahbub&" alt="thismahbub" /></p>
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thismahbub&" alt="thismahbub" /></p>
     </td>
   </tr>
 </table>
