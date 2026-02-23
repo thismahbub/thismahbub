@@ -3,7 +3,31 @@
 
 <h3 align="right"><a href="https://drive.google.com/file/d/1H_2-VkSzGHikQnOUPh5_qqiI-sbNQTx8/view?usp=sharing" target="_blank_">Download CV</a></h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thismahbub&" alt="thismahbub" /></p>
+<table border="0">
+  <tr>
+    <td width="50%">
+      <p>
+
+- I'm currently working on open-source Java/Spring Boot projects, a personal SaaS product, my Cyber Security Master's thesis at JAMK University, and FinTech/banking solutions
+        
+- I'm currently learning Cyber Security & ethical hacking (M.Eng. at JAMK, Finland), advanced cloud-native patterns on AWS/Azure/GCP, and reactive programming with Spring WebFlux
+  
+- I'm looking to collaborate on open-source Java/Spring Boot libraries, FinTech & payment system projects, cloud-native microservices architectures, and cybersecurity tools
+  
+- I'm looking for help with Cyber Security research, scaling distributed systems, and connecting with the Finnish/European tech community
+  
+- Ask me about Java & Spring Boot, microservices & event-driven architecture (Kafka), FinTech systems (OmniCard, MFS, QR payments), AWS solutions architecture, and DevOps/CI/CD pipelines
+  
+- How to reach me: thismahbub@gmail.com | [LinkedIn](https://www.linkedin.com/in/thismahbub/) | WhatsApp/Telegram: +358449302672
+  
+- Fun fact: I've engineered systems for 10+ banks across Asia, built a microservices engine that grew revenue by 40%, and I'm now leveling up into Cyber Security — all from Helsinki! 🇫🇮
+      </p>
+    </td>
+    <td>
+      <p width="400px"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thismahbub&" alt="thismahbub" /></p>
+    </td>
+  </tr>
+</table>
 
 🚩 Education:
 
@@ -20,22 +44,6 @@
 - [EY Digital - Silver Learning (2024)](https://www.credly.com/badges/cdafa2fa-3248-446e-b109-36a996c6bf1d)
 - [EY Cloud - Bronze Learning (2024)](https://www.credly.com/badges/917994f1-5e47-45c6-957b-1d384c76c2c7)
 - [EY Artificial Intelligence - AI Engineering - Bronze Learning (2024)](https://www.credly.com/badges/7b138070-35be-475b-8be8-83bee6122555)
-
-🔭 I'm currently working on open-source Java/Spring Boot projects, a personal SaaS product, my Cyber Security Master's thesis at JAMK University, and FinTech/banking solutions
-
-🌱 I'm currently learning Cyber Security & ethical hacking (M.Eng. at JAMK, Finland), advanced cloud-native patterns on AWS/Azure/GCP, and reactive programming with Spring WebFlux
-
-👯 I'm looking to collaborate on open-source Java/Spring Boot libraries, FinTech & payment system projects, cloud-native microservices architectures, and Cyber Security tools
-
-🤔 I'm looking for help with Cyber Security research, scaling distributed systems, and connecting with the Finnish/European tech community
-
-💬 Ask me about Java & Spring Boot, microservices & event-driven architecture (Kafka), FinTech systems (OmniCard, MFS, QR payments), AWS solutions architecture, and DevOps/CI/CD pipelines
-
-📫 How to reach me: thismahbub@gmail.com | LinkedIn | WhatsApp/Telegram: +358449302672
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I've engineered systems for 10+ banks across Asia, built a microservices engine that grew revenue by 40%, and I'm now leveling up into Cyber Security — all from Helsinki! 🇫🇮
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -60,3 +68,9 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=thismahbub&label=Profile%20views&color=0e75b6&style=flat" alt="thismahbub" />
+
+<style>
+td, th {
+   border: none!important;
+}
+</style>
