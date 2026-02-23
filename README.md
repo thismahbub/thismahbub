@@ -68,9 +68,3 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=thismahbub&label=Profile%20views&color=0e75b6&style=flat" alt="thismahbub" />
-
-<style>
-td, th {
-   border: none!important;
-}
-</style>
