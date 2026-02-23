@@ -5,7 +5,7 @@
 
 <table border="0">
   <tr>
-    <td width="50%">
+    <td>
       <p>
 
 - I'm currently working on open-source Java/Spring Boot projects, a personal SaaS product, my Cyber Security Master's thesis at JAMK University, and FinTech/banking solutions
