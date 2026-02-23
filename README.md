@@ -24,7 +24,7 @@
       </p>
     </td>
     <td>
-      <p width="400"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thismahbub&" alt="thismahbub" /></p>
+      <p width="45%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thismahbub&" alt="thismahbub" /></p>
     </td>
   </tr>
 </table>
