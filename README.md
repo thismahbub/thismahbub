@@ -18,7 +18,7 @@
   
 - Ask me about Java & Spring Boot, microservices & event-driven architecture (Kafka), FinTech systems (OmniCard, MFS, QR payments), AWS solutions architecture, and DevOps/CI/CD pipelines
   
-- How to reach me: thismahbub@gmail.com | [LinkedIn](https://www.linkedin.com/in/thismahbub/) | WhatsApp/Telegram: +358449302672
+- How to reach me: [Gmail](mailto:thismahbub@gmail.com) | [LinkedIn](https://www.linkedin.com/in/thismahbub/) | WhatsApp/Telegram: ```+358449302672```
   
 - Fun fact: I've engineered systems for 10+ banks across Asia, built a microservices engine that grew revenue by 40%, and I'm now leveling up into Cyber Security — all from Helsinki! 🇫🇮
       </p>
